@@ -9,7 +9,10 @@ A:] THESE ARE IMPLICIT INSTRUCTIONS ON HOW TO PROGRAM YOUR ATMEL328P-PU CHIP
 4. Use Atmel Studio 5.1 for creating HEX File with Build Option in Tool Menu
 5. Make sure to close/exit Atmel Studio 5.1 and open Atmel Studio 7 for Programming into the Microcontroller -- 
 6. Load HEX File with Atmel Studio 7, Go to Tool --> Device Programming to do so
-7 Have Fun!
+7. Note that the C Code in on a Rich Text Document - Copy and Paste!
+
+
+ Have Fun!
 
 
 thanks!
