@@ -1,0 +1,17 @@
+Instructions:
+------------
+A:] THESE ARE IMPLICIT INSTRUCTIONS ON HOW TO PROGRAM YOUR ATMEL328P-PU CHIP
+	VIA AVR ISP MKII
+
+1. Make wiring with respect to coloring on breadboard
+2. Connect PINS MOSI MISO SCK GND & VCC/AVCC to Atmel AVR ISP MKII 
+3. This diagram of Fritzing is for both Oscillator and none Oscillator use
+4. Use Atmel Studio 5.1 for creating HEX File with Build Option in Tool Menu
+5. Make sure to close/exit Atmel Studio 5.1 and open Atmel Studio 7 for Programming into the Microcontroller -- 
+6. Load HEX File with Atmel Studio 7, Go to Tool --> Device Programming to do so
+7 Have Fun!
+
+
+thanks!
+
+RELEASE NOTE: Updated March 2017
